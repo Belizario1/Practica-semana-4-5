@@ -1,8 +1,8 @@
 # Informe Comparativo: Patrones de Diseño Creacionales
 
-**Autor:** [Tu nombre]  
+**Autor:** David Victor Belizario yana 
 **Curso:** Programación Orientada a Objetos  
-**Fecha:** [Fecha actual]
+**Fecha:** 11/05/2026
 
 ---
 
